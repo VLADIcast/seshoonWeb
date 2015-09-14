@@ -3,6 +3,7 @@ Partial Class Artist
     Inherits Page
 
     Protected Sub Page_Load(sender As Object, e As EventArgs) Handles Me.Load
+        Dim x As String = "test"
         Dim sb As New System.Text.StringBuilder()
         sb.Append("<script type='text/javascript' src='/assets/js/jquery.fancybox.js'></script>" & vbCrLf)
         sb.Append("<script type='text/javascript' src='/assets/js/jquery.fancybox-media.js'></script>" & vbCrLf)

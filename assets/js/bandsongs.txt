@@ -1,0 +1,35 @@
+{
+	"Response": {
+		"bandID": 12,
+		"songs": [{
+			"songID": 1,
+			"title": "Stairway to Heaven",
+			"order": 1,
+			"artist": "Led Zeppelin"
+		},
+		{
+			"songID": 2,
+			"title": "Dream On",
+			"order": 2,
+			"artist": "Aerosmith"
+		},
+		{
+			"songID": 3,
+			"title": "My Sharona",
+			"order": 3,
+			"artist": "TheKnack"
+		},
+		{
+			"songID": 4,
+			"title": "Dream On",
+			"order": 4,
+			"artist": "Aerosmith"
+		},
+		{
+			"songID": 5,
+			"title": "Let It Be",
+			"order": 5,
+			"artist": "The Beatles"
+		}]
+	}
+}

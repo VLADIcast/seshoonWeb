@@ -1,0 +1,37 @@
+{
+    "Response": {
+        "artistID": 12,        
+        "media": [
+            {                
+                "video": [
+                    {
+                        "link": "https://www.youtube.com/watch?v=a0fkNdPiIL4"
+                    },
+                    {
+                        "link": "https://vimeo.com/15734398"
+                    },
+                    {
+                        "link": "https://www.youtube.com/watch?v=KzGKsXPBILw"
+                    },
+					{
+						"link": "https://www.youtube.com/watch?v=gZ_kez7WVUU"
+					}
+                ],
+				"audio": [
+                    {
+                        "link": "https://soundcloud.com/dcmusicpro/my-love-route-94-demo-cover"
+                    },
+                    {
+                        "link": "https://soundcloud.com/juan_mj_10/led-zeppelin-rock-n-roll"
+                    },
+                    {
+                        "link": "https://soundcloud.com/dcmusicpro/anywhere-for-you-john-martin"
+                    },
+                    {
+                        "link": "https://soundcloud.com/dcmusicpro/happy-in-the-style-of-pharrell-williams-dcmusic-cover"
+                    }
+                ]
+			}
+		]
+	}
+}
